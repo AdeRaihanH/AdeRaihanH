@@ -11,11 +11,11 @@
   <br />
 
   <a href="https://github.com/AdeRaihanH">
-    <img src="https://img.shields.io/github/last-commit/AdeRaihanH/AdeRaihanH?style=flat-square&color=38BDF8&label=Terakhir+Update&logo=github" alt="Last Commit" />
+    <img src="https://img.shields.io/github/last-commit/AdeRaihanH/AdeRaihanH?style=flat-square&color=38BDF8&label=Last+Commit&logo=github" alt="Last Commit" />
   </a>
   &nbsp;
   <a href="https://github.com/AdeRaihanH">
-    <img src="https://img.shields.io/badge/Status-Aktif%20Koding-00D2FF?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Active%20Coding-00D2FF?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
   </a>
 
 </div>
