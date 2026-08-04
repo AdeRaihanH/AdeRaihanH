@@ -15,7 +15,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/AdeRaihanH">
-    <img src="https://img.shields.io/badge/Status-Active%20Coding-00D2FF?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Active-00D2FF?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
   </a>
 
 </div>
