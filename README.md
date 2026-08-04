@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h3>🐍 GitHub Contribution Grid</h3>
+  <h3>GitHub Contribution</h3>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeRaihanH/AdeRaihanH/output/github-contribution-grid-snake-dark.svg">
